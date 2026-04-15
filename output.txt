@@ -1,0 +1,6 @@
+   CustomerID  TotalRevenue  TotalOrders    Segment
+0     12346.0          0.00            2  Low Value
+1     12347.0       4310.00            7  Low Value
+2     12348.0       1797.24            4  Low Value
+3     12349.0       1757.55            1  Low Value
+4     12350.0        334.40            1  Low Value
